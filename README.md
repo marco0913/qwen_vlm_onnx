@@ -10,7 +10,7 @@ This project demonstrates how to:
 
 ## 📦 Requirements
 
-Install the necessary packages (tested versions shown below):
+Install the necessary packages:
 
 ```bash
 pip install -r requirements.txt
